@@ -1,7 +1,9 @@
-Hello World! I’m Yitbarek-Wolde👋
-I’m a passionate full-stack developer with a penchant for turning code into delightful experiences. Currently, I’m putting the finishing touches on my Masters in Software Development, and let me tell you, it’s been a wild ride! 🎓
+#Hello World! I’m Yitbarek-Wolde👋
 
-My Multilingual Toolbox 🛠️
+I’m a passionate full-stack developer with a penchant for turning code into delightful experiences. 
+Currently, I’m putting the finishing touches on my Masters in Software Development, and let me tell you, it’s been a wild ride! 🎓
+
+#My Multilingual Toolbox 🛠️
 JavaScript: My bread and butter. I can sling TypeScript, JavaScript, and even whisper sweet nothings in HTML5 and CSS3.
 Python: My trusty sidekick. We’ve battled dragons (read: bugs) together and emerged victorious.
 AI Enthusiast: When I’m not writing code, I’m probably daydreaming about neural networks and learning prompt engineering. 🤖
