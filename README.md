@@ -21,3 +21,10 @@ I believe in elegant solutions, clean code, and life’s too short for boring va
 Yitbarek-Wolde/Yitbarek-Wolde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<samp>
+  <a href="https://github.com/Yitbarek-Wolde">
+    <img alt="YT activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Yitbarek-Wolde&theme=github-compact&hide_border=true" />
+  </a>
+  <br/>
+</samp>
