@@ -1,4 +1,4 @@
-#Hello World! I’m Yitbarek-Wolde👋
+#Hello World! I’m YT👋
 
 I’m a passionate full-stack developer with a penchant for turning code into delightful experiences. 
 Currently, I’m putting the finishing touches on my Masters in Software Development, and let me tell you, it’s been a wild ride! 🎓
