@@ -22,6 +22,15 @@ Yitbarek-Wolde/Yitbarek-Wolde is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
+
+<h2 align="center">My Tech Stack</h2>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ai,angular, androidstudio, aws,babel, bootstrap, cpp,css,cypress,cassandra,docker,debian,django,express,git,github,flask,firebase,html,js,jquery,materialui,mongodb,mysql,linux,nextjs,nginx,nodejs,py,postgres,postman,react,redux,react,tailwind,ts,vite,vscodium,vscode,webpack,windows,npm,yarn&perline=6" />
+  </a>
+</p>
+
 <samp>
   <a href="https://github.com/Yitbarek-Wolde">
     <img alt="YT activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Yitbarek-Wolde&theme=github-compact&hide_border=true" />
