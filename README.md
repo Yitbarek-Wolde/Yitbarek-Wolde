@@ -23,13 +23,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<h2 align="center">My Tech Stack</h2>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ai,angular,androidstudio,aws,babel,bootstrap,cpp,css,cypress,cassandra,docker,debian,django,express,git,github,flask,firebase,html,js,graphql,materialui,mongodb,mysql,linux,nextjs,nginx,nodejs,py,postgres,postman,kubernetes,redux,react,tailwind,ts,vite,vscodium,vscode,webpack,windows,npm,yarn&perline=6" />
-  </a>
-</p>
+
 
 <table align="center">
 <tr border="0">
@@ -47,16 +41,22 @@ You can click the Preview link to take a look at your changes.
   </td>
 </tr>
 </table>
-
+<div align=center>
   <img  align="center"  src="https://leetcard.jacoblin.cool/bnlXCrRUY6" />
-
+</div>
 <samp>
   <a href="https://github.com/Yitbarek-Wolde">
     <img alt="YT activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Yitbarek-Wolde&theme=github-compact&hide_border=true" />
   </a>
   <br/>
 </samp>
-
+<h2 align="center">My Tech Stack</h2>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ai,angular,androidstudio,aws,babel,bootstrap,cpp,css,cypress,cassandra,docker,debian,django,express,git,github,flask,firebase,html,js,graphql,materialui,mongodb,mysql,linux,nextjs,nginx,nodejs,py,postgres,postman,kubernetes,redux,react,tailwind,ts,vite,vscodium,vscode,webpack,windows,npm,yarn&perline=6" />
+  </a>
+</p>
 
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
