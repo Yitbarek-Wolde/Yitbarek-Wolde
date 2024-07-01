@@ -39,6 +39,13 @@ You can click the Preview link to take a look at your changes.
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Yitbarek-Wolde&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
+
+  <td>
+   <h2 align="center">My Tech Stack</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ai,angular,androidstudio,aws,babel,bootstrap,cpp,css,cypress,cassandra,docker,debian,django,express,git,github,flask,firebase,html,js,graphql,materialui,mongodb,mysql,linux,nextjs,nginx,nodejs,py,postgres,postman,kubernetes,redux,react,tailwind,ts,vite,vscodium,vscode,webpack,windows,npm,yarn&perline=6" />
+  </a>
+  </td>
 </tr>
 </table>
 
