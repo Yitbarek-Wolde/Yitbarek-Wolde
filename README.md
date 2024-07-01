@@ -50,6 +50,13 @@ You can click the Preview link to take a look at your changes.
   </a>
   <br/>
 </samp>
+
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Yitbarek-Wolde&theme=tokyonight&row=1&column=6&margin-h=15&margin-w=15&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+
 <h2 align="center">My Tech Stack</h2>
 <!--tech stack icons-->
 <p align="center">
@@ -57,10 +64,3 @@ You can click the Preview link to take a look at your changes.
     <img src="https://skillicons.dev/icons?i=ai,angular,androidstudio,aws,babel,bootstrap,cpp,css,cypress,cassandra,docker,debian,django,express,git,github,flask,firebase,html,js,graphql,materialui,mongodb,mysql,linux,nextjs,nginx,nodejs,py,postgres,postman,kubernetes,redux,react,tailwind,ts,vite,vscodium,vscode,webpack,windows,npm,yarn&perline=6" />
   </a>
 </p>
-
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Yitbarek-Wolde&theme=tokyonight&row=1&column=6&margin-h=15&margin-w=15&no-bg=true" alt="TROPHY" />
-    </a>
-  
-</div>
