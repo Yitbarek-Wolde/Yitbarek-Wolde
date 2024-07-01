@@ -48,7 +48,7 @@ You can click the Preview link to take a look at your changes.
 </tr>
 </table>
 
-https://leetcard.jacoblin.cool/bnlXCrRUY6
+  <img  align="center"  src="https://leetcard.jacoblin.cool/bnlXCrRUY6" />
 
 <samp>
   <a href="https://github.com/Yitbarek-Wolde">
