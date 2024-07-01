@@ -47,7 +47,8 @@ You can click the Preview link to take a look at your changes.
   </td>
 </tr>
 </table>
-![Leetcode Stats](https://leetcard.jacoblin.cool/bnlXCrRUY6)
+
+https://leetcard.jacoblin.cool/bnlXCrRUY6
 
 <samp>
   <a href="https://github.com/Yitbarek-Wolde">
