@@ -48,9 +48,11 @@ You can click the Preview link to take a look at your changes.
 <tr>
  
   <td colspan="2" >
-  <a align="center" href="https://skillicons.dev">
+   <p align="center">
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ai,angular,androidstudio,aws,babel,bootstrap,cpp,css,cypress,cassandra,docker,debian,django,express,git,github,flask,firebase,html,js,graphql,materialui,mongodb,mysql,linux,nextjs,nginx,nodejs,py,postgres,postman,kubernetes,redux,react,tailwind,ts,vite,vscodium,vscode,webpack,windows,npm,yarn&perline=6" />
   </a>
+   </p>
  </td>
 </tr>
 </table>
