@@ -22,7 +22,9 @@ Yitbarek-Wolde/Yitbarek-Wolde is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-
+<div align=center>
+  <img  align="center"  src="https://leetcard.jacoblin.cool/bnlXCrRUY6" />
+</div>
 
 
 <table align="center">
@@ -41,9 +43,7 @@ You can click the Preview link to take a look at your changes.
   </td>
 </tr>
 </table>
-<div align=center>
-  <img  align="center"  src="https://leetcard.jacoblin.cool/bnlXCrRUY6" />
-</div>
+
 <samp>
   <a href="https://github.com/Yitbarek-Wolde">
     <img alt="YT activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Yitbarek-Wolde&theme=github-compact&hide_border=true" />
