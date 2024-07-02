@@ -45,8 +45,7 @@ You can click the Preview link to take a look at your changes.
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Yitbarek streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Yitbarek-Wolde&theme=dark&hide_border=true" /> 
   -->
-   <img  align="center"  src="https://leetcard.jacoblin.cool/
-Yitbarek-Wolde?theme=dark&font=Manuale" />
+   <img  align="center"  src="https://leetcard.jacoblin.cool/Yitbarek-Wolde?theme=dark&font=Manuale" />
 </td>
 
 <td width="50%" align="center">
