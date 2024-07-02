@@ -22,6 +22,20 @@ Yitbarek-Wolde/Yitbarek-Wolde is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
+<h3>🏆 Github stats </h3>
+  <img style="width:100%" src="https://github-profile-trophy.vercel.app/?username=bnlXCrRUY6&theme=algolia&row=2&column=7">
+  <div align="center">
+    <img style="width: 100%" src="https://myreadme.vercel.app/api/embed/bnlXCrRUY6?panels=userstatistics,toprepositories,toplanguages,commitgraph"/>
+  </div>
+
+
+<h3>🧠 Leetcode stats </h3>
+<div>
+   <a style="text-decoration:none" href="https://leetcode.com/bnlXCrRUY6/">
+    <img style="width:60%" src="https://leetcard.jacoblin.cool/bnlXCrRUY6?theme=nord&font=Ubuntu&ext=contest"/>
+  </a>
+</div>
+
  
 <table align="center">
 <tr border="0">
