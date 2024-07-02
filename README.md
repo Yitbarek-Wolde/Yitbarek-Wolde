@@ -20,7 +20,7 @@ I believe in elegant solutions, clean code, and life’s too short for boring va
 <!---
 Yitbarek-Wolde/Yitbarek-Wolde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+
 
 <h3>🏆 Github stats </h3>
   <img style="width:100%" src="https://github-profile-trophy.vercel.app/?username=bnlXCrRUY6&theme=algolia&row=2&column=7">
@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
     <img style="width:60%" src="https://leetcard.jacoblin.cool/bnlXCrRUY6?theme=nord&font=Ubuntu&ext=contest"/>
   </a>
 </div>
-
+--->
  
 <table align="center">
 <tr border="0">
